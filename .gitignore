@@ -1,0 +1,8 @@
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+
+# Dependencies (caso venha a usar)
+node_modules/
